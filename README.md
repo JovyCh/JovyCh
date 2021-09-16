@@ -1,5 +1,5 @@
 
-Hello, I', @JovyChi
+Hello, I'm, @JovyChi
 I'm currently a student in MTU studying software development.
 I hope to learn more about artificial inteligence and further better my skills in java and python.
 
